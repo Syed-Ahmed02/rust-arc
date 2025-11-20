@@ -110,8 +110,6 @@ fn main() {
     println!("Guess the number!");
 
     let secret_number = rand::thread_rng().gen_range(1..=100); 
-        
-
 
     loop { // Loop keyword  creates an infinite loop, ctrl c 
         println!("Please input your guess.");
