@@ -225,3 +225,4 @@ fn main() {
 // This is an example of rust's memory safety principles in action. In many low level languages this check is not done
 // and when you try access an incorrect index, invalid memory can be accessed. 
 // Rust protects you by immeditately exiting instead of allowing the moemory access to continue
+
